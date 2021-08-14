@@ -14,9 +14,9 @@
         <a href="mailto:mateus20.lopes02@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mateuss18">
         </a>
-				<a href="https://www.linkedin.com/in/mateus--lopes/">
-	          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Mateuss18">
-				</a>	
+	<a href="https://www.linkedin.com/in/mateus--lopes/">
+	    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Mateuss18">
+	</a>	
    </p>
    <h2>🐱‍👤 My skills</h2>
    <p>
@@ -30,5 +30,5 @@
    <h2>Github</h2>
    <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateuss18&show_icons=true&cache_seconds=86400&theme=chartreuse-dark" alt=""/>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuss18&langs_count=10&layout=compact&theme=chartreuse-dark" alt="">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuss18&langs_count=10&layout=compact&?exclude_repo=Pokedex,Memstuff,Floor-Calculator&theme=chartreuse-dark" alt="">
     </p>
