@@ -11,10 +11,10 @@
     
    <h2>📱📩 Contact</h2>
    <p>
-        <a href="mailto:mateus20.lopes02@gmail.com">
+        <a href="mailto:mateus20.lopes02@gmail.com" target="_blank">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mateuss18">
         </a>
-	<a href="https://www.linkedin.com/in/mateus--lopes/">
+	<a href="https://www.linkedin.com/in/mateus--lopes/" target="_blank">
 	    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Mateuss18">
 	</a>	
    </p>
