@@ -36,3 +36,5 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateuss18&show_icons=true&cache_seconds=86400&theme=chartreuse-dark" alt=""/>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuss18&langs_count=10&layout=compact&?exclude_repo=Pokedex,Memstuff,Calculator-in-Flutter&theme=chartreuse-dark" alt="">
     </p>
+ 
+  ![Snake animation](https://github.com/mateuss18/mateuss18/blob/output/github-contribution-grid-snake.svg)
