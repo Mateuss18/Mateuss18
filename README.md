@@ -37,4 +37,4 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuss18&langs_count=10&layout=compact&?exclude_repo=Pokedex,Memstuff,Calculator-in-Flutter&theme=chartreuse-dark" alt="">
     </p>
  
-  ![Snake animation](https://github.com/mateuss18/mateuss18/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Mateuss18/Mateuss18/blob/output/github-contribution-grid-snake.svg)
