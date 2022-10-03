@@ -15,7 +15,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Mateuss18
-          color_snake: red
+          input_color_snake: red
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
