@@ -31,10 +31,10 @@
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="">
     </p>
     
-   <h2>Github</h2>
+   <h2>😸 Github stats</h2>
    <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateuss18&show_icons=true&cache_seconds=86400&theme=chartreuse-dark" alt=""/>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuss18&langs_count=10&layout=compact&?exclude_repo=Pokedex,Memstuff,Calculator-in-Flutter&theme=chartreuse-dark" alt="">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateuss18&show_icons=true&cache_seconds=86400&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=A80101&bg_color=000000&border_color=A80101" alt=""/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuss18&langs_count=10&layout=compact&?exclude_repo=Pokedex,Memstuff,Calculator-in-Flutter&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=A80101&bg_color=000000&border_color=A80101" alt="">
     </p>
  
   ![Snake animation](https://github.com/Mateuss18/Mateuss18/blob/output/github-contribution-grid-snake.svg)
