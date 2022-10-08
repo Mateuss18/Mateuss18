@@ -67,8 +67,10 @@
 ###
 <br>
    <h2>😸 Github stats</h2>
-   <div align="center" style="display: flex; flex-direction: column; gap: 5px">
+        <br>
+   <div align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateuss18&show_icons=true&cache_seconds=86400&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=A80101&bg_color=000000&border_color=A80101&hide=issues" height="180" alt=""/>
+        <br>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuss18&layout=compact&?exclude_repo=Pokedex,Memstuff,Calculator-in-Flutter&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=A80101&bg_color=000000&border_color=A80101&langs_count=5" alt="" height="180">
     </div>
     
