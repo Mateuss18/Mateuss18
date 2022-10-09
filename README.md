@@ -2,6 +2,7 @@
 
 ###
 
+<img align="right" height="240" src="https://camo.githubusercontent.com/50ca1232687d781b2573bb538f35a3411edf31592208bdcf25467a445fec5833/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313032353136343834343932393931323934332f313032383734343239303039343034333239362f666f72726573742d67756d702e676966" />
 
 * 👨‍🎓 Atualmente fazendo faculdade de Analise e Desenvolvimento de Sistemas na FATEC de Americana
 * 👩🏻‍💻 Focado em Desenvolvimento Front-End
@@ -24,12 +25,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows8 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" width="52" alt="opera logo"  />
+  
 </div>
 
 ###
 
-<h3 align="left">📚 Estudando</h3>
+<h2 align="left">📚 Estudando</h2>
 
 ###
 
@@ -44,33 +45,51 @@
 <h2 align="left">📩 Contato</h2>
 
 ###
-<div>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  <a href="mateus20.lopes02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=mateus20.lopes02@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5519996489694&text=Ol%C3%A1%20Mateus" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=(19) 996489694&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="linkedin.com/in/mateus--lopes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/MateusssDev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
-
-###
 </div>
 
-###
-<br>
    <h2>😸 Github stats</h2>
         <br>
    <div align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateuss18&show_icons=true&cache_seconds=86400&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=A80101&bg_color=000000&border_color=A80101&hide=issues" height="180" alt=""/>
-        <br>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuss18&layout=compact&?exclude_repo=Pokedex,Memstuff,Calculator-in-Flutter&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=A80101&bg_color=000000&border_color=A80101&langs_count=5" alt="" height="180">
     </div>
     
- <div align="center">
+<br>
+    
+<div align="center">
+    
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuss18&layout=compact&?exclude_repo=Pokedex,Memstuff,Calculator-in-Flutter&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=A80101&bg_color=000000&border_color=A80101&langs_count=5" alt="" height="194">
+        
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=mateuss18&color=red&style=for-the-badge)
+
+</div>
+    
+<div align="center">
  
-  ![Snake animation](https://github.com/Mateuss18/Mateuss18/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mateuss18/Mateuss18/blob/output/github-contribution-grid-snake.svg)
   
- </div>
+</div>
+
+###
