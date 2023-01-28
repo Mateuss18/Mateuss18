@@ -65,7 +65,13 @@
 </div>
 
    <h2>😸 Github stats</h2>
-        <br>
+   
+   <div align="center">
+  
+   [![GitHub Streak](https://streak-stats.demolab.com?user=Mateuss18&theme=sea&date_format=n%2Fj%5B%2FY%5D&background=000000&border=A80101&fire=A80101&ring=A80101&stroke=A80101)](https://git.io/streak-stats)
+  
+  </div>
+
    <div align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateuss18&show_icons=true&cache_seconds=86400&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=A80101&bg_color=000000&border_color=A80101&hide=issues" height="180" alt=""/>
     </div>
