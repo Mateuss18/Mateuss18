@@ -91,11 +91,8 @@
 ![](https://komarev.com/ghpvc/?username=mateuss18&color=red&style=for-the-badge)
 
 </div>
-    
+<!---
 <div align="center">
- 
 ![Snake animation](https://github.com/Mateuss18/Mateuss18/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
-
-###
+-->
