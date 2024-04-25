@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="240" src="https://camo.githubusercontent.com/50ca1232687d781b2573bb538f35a3411edf31592208bdcf25467a445fec5833/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313032353136343834343932393931323934332f313032383734343239303039343034333239362f666f72726573742d67756d702e676966" />
+<img align="right" height="240" src="https://media.tenor.com/Dhrbmr_t3tEAAAAM/forrest-gump-hello.gif" />
 
 * 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 * 👩🏻‍💻 Focado em Desenvolvimento Front-End - Estudando React
