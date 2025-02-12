@@ -33,9 +33,6 @@
   <a href="mateus20.lopes02@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=mateus20.lopes02@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5519996489694&text=Ol%C3%A1%20Mateus" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=(19) 996489694&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
-  </a>
   <a href="linkedin.com/in/mateus--lopes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
