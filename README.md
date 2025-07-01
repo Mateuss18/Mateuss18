@@ -30,9 +30,6 @@
 ###
 
 <div align="left">
-  <a href="mateus20.lopes02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
   <a href="linkedin.com/in/mateus--lopes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
@@ -45,13 +42,6 @@
 </div>
 
    <h2>😸 Github stats</h2>
-   
-
-   <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateuss18&show_icons=true&cache_seconds=86400&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=A80101&bg_color=000000&border_color=A80101&hide=issues" height="180" alt=""/>
-    </div>
-    
-<br>
     
 <div align="center">
     
@@ -66,8 +56,3 @@
 ![](https://komarev.com/ghpvc/?username=mateuss18&color=red&style=for-the-badge)
 
 </div>
-<!---
-<div align="center">
-![Snake animation](https://github.com/Mateuss18/Mateuss18/blob/output/github-contribution-grid-snake.svg)
-</div>
--->
