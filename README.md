@@ -2,8 +2,8 @@
 
 ###
 
+* 👩🏻‍💻 Desenvolvedor Front End com mais de 3 anos de experiência
 * 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
-* 👩🏻‍💻 Desenvolvedor Front End - NuxtJs
 * 📍 Morando em Nova Odessa, SP
 * 🏋️‍♂️ Fun fact: Apaixonado por musculação
 
