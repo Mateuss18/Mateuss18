@@ -4,7 +4,7 @@
 
 * 👩🏻‍💻 Desenvolvedor Front End com mais de 3 anos de experiência
 * 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
-* 📍 Morando em Nova Odessa, SP
+* 📍 Nova Odessa, SP
 * 🏋️‍♂️ Fun fact: Apaixonado por musculação
 
 ###
@@ -39,14 +39,6 @@
 </div>
 
 ###
-</div>
-
-   <h2>😸 Github stats</h2>
-    
-<div align="center">
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuss18&layout=compact&?exclude_repo=Pokedex,Memstuff,Calculator-in-Flutter&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=A80101&bg_color=000000&border_color=A80101&langs_count=7" alt="" height="194">
-        
 </div>
 
 <br>
